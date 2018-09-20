@@ -1,0 +1,4 @@
+server_port: 7777
+server_name: Accountservice DEV
+amqp_server_url: amqp://guest:guest@192.168.99.100:5672
+config_event_bus: springCloudBus
