@@ -1,4 +1,4 @@
-server_port: 6767
+server_port: 6868
 server_name: Accountservice TEST
 the_password: '{cipher}AQChCV0wMU0vuTXrbb2y1CsY2xdZKIXGTHr+JKnDEz+1YvKLr0tA1mZItQtpKarRT+PhMps24FDnO/xC2eat25cXKh80D02ozaYAQvqa3UkwzTWtJ5RxDaAx/9V6+3zHkYink7/cNz3Okj/dFT1TVWs9pxyl2vOYNVDN4Sq+/+PCzOFjfv09eMu8A6+gSXBOXXPzR4MUZW0JdIpAU/+pWKixrNE4BjuDp7RUF92WcTRIfAAq+Ay6e0b/1b5V2nxWGzkFOPxoGbytsw2yU3NoW7T1s74yn5dxPRGKjneZvPM65zUYBsA3tinIE59UaZuNsm4V7VtYLPEg7/KdLy73Jfa72bYIv5E0eVYU3kDx7No9r8Z4b8KomSqHy+v6/mj8bVo='
 amqp_server_url: amqp://guest:g0bl0g123@rabbitmq:5672/
